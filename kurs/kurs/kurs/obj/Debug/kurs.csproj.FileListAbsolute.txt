@@ -1,0 +1,15 @@
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.level1.resources
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.level2.resources
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.level3.resources
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.menu.resources
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.Info.resources
+C:\Users\stast\Desktop\programming\C#\kursovik\program\kurs\kurs\kurs\obj\Debug\kurs.Record.resources
